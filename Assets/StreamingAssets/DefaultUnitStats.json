@@ -1,0 +1,20 @@
+{  
+   "units":[  
+      {  
+         "UnitClass":"Militiaman",
+         "HP":500,
+         "Hungry":100,
+         "Damage":10,
+		 "MinDamage":0,
+         "MoveSpeed":1,
+         "PrickingDefence":5.0,
+		 "SlashingDefence":5.0,
+		 "CrushingDefence":5.0,
+         "Level":1,
+         "AttackSpeed":1.0,
+         "AttackRange":2,
+		 "Crit":5
+      }
+      
+   ]
+}

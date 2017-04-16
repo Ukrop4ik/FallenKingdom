@@ -1,0 +1,18 @@
+{  
+   "units":[  
+      {  
+         "UnitClass":"Test1",
+         "HP":1000,
+         "Hungry":100,
+         "Damage":50,
+         "MoveSpeed":1,
+         "PrickingDefence":0,
+		 "SlashingDefence":0,
+		 "CrushingDefence":10,
+         "Level":1,
+         "AttackSpeed":1,
+         "AttackRange":1
+      }
+      
+   ]
+}
